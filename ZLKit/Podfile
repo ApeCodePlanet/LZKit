@@ -1,0 +1,16 @@
+platform :ios, '10.0'
+
+target 'ZLKit' do
+
+inhibit_all_warnings!
+
+pod 'AFNetworking'
+pod 'PPNetworkHelper'
+pod 'Reachability'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'MBProgressHUD'
+pod 'Masonry'
+pod 'Toast'
+
+end
